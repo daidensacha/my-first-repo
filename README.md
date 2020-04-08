@@ -3,21 +3,22 @@
 
 Welcome
 
--In creating this simple website I practiced HTML, HTML5, and CSS that I was introduced to in the previous modules. 
--The site displays icons and links to information on the various technologies that we will be introduced 
+- In creating this simple website I practiced HTML, HTML5, and CSS that I was introduced to in the previous modules. 
+- The site displays icons and links to information on the various technologies that we will be introduced 
 to and will learn in the Full Stack course.
-    * HTML
-    * CSS 
-    * Javascript
-    * Gitpod
-    * Git
-    * GitHub
-    * Python
-    * Flask
-    * MongoDB
-    * MySQL
-    * Django
-    * Heroku
+
+   * HTML
+   * CSS 
+   * Javascript
+   * Gitpod
+   * Git
+   * GitHub
+   * Python
+   * Flask
+   * MongoDB
+   * MySQL
+   * Django
+   * Heroku
 
 - In particular, in this module I was introduced to *Gitpod*, and how to create and edit a *GitHub* repository in terminal. 
 
