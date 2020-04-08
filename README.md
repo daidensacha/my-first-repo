@@ -26,4 +26,4 @@ to and will learn in the Full Stack course.
 remove and push to the remote repository. I was also taught how to create the .gitignore file to exclude files or directories 
 from being tracked.
 
--Lastly, the importance of the README file was emphasized as a source of information for the project.
+- Lastly, the importance of the README file was emphasized as a source of information for the project.
